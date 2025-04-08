@@ -1,6 +1,6 @@
 # Enhanced KS Prediction Application
 
-A modern, feature-rich application for KS prediction with advanced capabilities including machine learning, security, and user interface enhancements.
+A modern, feature-rich application for KS prediction with advanced capabilities including machine learning, security, and user interface enhancements. For Talking about on this project contact me.
 
 ## Features
 
