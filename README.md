@@ -1,6 +1,6 @@
 # 🔬 Enhanced KS Prediction Application
 
-Smart computer-vision software built **for the textile industry**: upload a fabric image, and our EfficientNet-B0 model predicts “KS” (knitting streak) defects in real time—wrapped in a secure, production-grade API and a sleek dark/light UI.
+Smart computer-vision software built **for the textile industry**: upload a fabric image, and our EfficientNet-B0 model predicts “KS” defects in real time—wrapped in a secure, production-grade API and a sleek dark/light UI.
 
 > **90 % automation, 100 % control.** From batch pipelines to live dashboards, you get data-driven quality assurance with enterprise-class security, monitoring & CI/CD.
 
